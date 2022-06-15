@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Maria",
+      "lastName": "Conchita",
+      "age": "25",
+      "email": "MariaConchita@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Juan",
+      "lastName": "Calle",
+      "age": "30",
+      "email": "juancalles@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Pedro",
+      "lastName": "Navajas",
+      "age": "50",
+      "email": "pedronavajas@gmail.com"
+    }
+  ],
+  "books": [
+    {
+      "name": "Book 1",
+      "date": "01-02-2021",
+      "total_pages": "50",
+      "id": 1
+    },
+    {
+      "name": "Book 2",
+      "date": "01-02-2021",
+      "total_pages": "50",
+      "id": 10
+    }
+  ]
+}
